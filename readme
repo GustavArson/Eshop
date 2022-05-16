@@ -1,0 +1,11 @@
+nécessaire :
+
+-Redux
+-BDD SQL à faire soi même
+-JWT pour un middleware d'authentification
+-Architecture MVC
+-tables:
+- product
+- user
+- order
+- orderDetail 

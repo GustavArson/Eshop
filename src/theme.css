@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#home section {
+    display: flex;
+}
+
+#home article {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 200px;
+    margin: 25px auto;
+    box-shadow: 2px 2px 3px;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #fff;
+}
+
+h3 {
+    text-align: center;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-image: url("./index.jpg");
+    padding: 4%;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;    
+    text-transform: uppercase;
+}
+
+nav a {
+    padding: 2%;
+    margin: 2%;
+}
